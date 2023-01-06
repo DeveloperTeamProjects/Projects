@@ -39,10 +39,10 @@
       - Linter / Formatter
       - Unit Testing
       - E2E Testing
-    - De todas la opciones antiores las mas importantes son:
+    - De todas la opciones anteriores las mas importantes son:
       - Babel: Compatibilidad js legacy/moderno
       - Router: Capacidad de enrutar path dentro del proyecto
-      - Vuex: Capacidad de almacenamiento de variables y funciones de maner global en la aplicacion.
+      - Vuex: Capacidad de almacenamiento de variables y funciones de manera global en la aplicacion.
       - Linter: estandarizacion para tener codigo limpio.
       - Unit Testing: test unitarios
   - Al precionar (enter) la siguiente vista permite seleccionar la version de vuejs
